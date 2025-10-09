@@ -42,5 +42,3 @@ I enjoy solving complex problems with modern technologies and continuously learn
 
 ---
 
-> “Clean code always looks like it was written by someone who cares.”  
-> — Robert C. Martin
