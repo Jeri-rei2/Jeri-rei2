@@ -8,13 +8,12 @@
 - 🔭 I’m currently working on **Laravel & Node.js projects**
 - 🌱 I’m learning **React, Prisma, and PostgreSQL**
 - 💬 Ask me about **API design, database structure, or CRUD optimization**
-- 📫 Reach me at: [your_email@example.com](mailto:your_email@example.com)
+- 📫 Reach me at: [jerireinaldo@gmail.com](mailto:jerireinaldo@gmail.com)
 
 ---
 
 ### 🧰 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/Laravel-EF4273?logo=laravel&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
